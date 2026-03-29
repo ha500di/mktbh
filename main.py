@@ -14,7 +14,7 @@ st.set_page_config(page_title="المكتبة الذكية Pro - سحابية", 
 
 st.markdown("""
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
+@import url('https://docs.google.com/spreadsheets/d/1175I-7_jtI8Qt4GdC7CUuHaZTGI8u82s/edit?usp=sharing&ouid=101710061388629504590&rtpof=true&sd=true');
 html, body, [class*="css"], .stMarkdown, p, h1, h2, h3, h4, li, .stButton, .stSelectbox, .stTextInput, .stMultiSelect {
     font-family: 'Tajawal', sans-serif !important;
     direction: rtl !important; text-align: right !important;
